@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Tutorial Plugin
+Plugin Name: Tutorial WordPress Plugin
  */
 
 function my_render_text() {
